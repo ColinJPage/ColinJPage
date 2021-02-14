@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there! 👋
+I'm Colin Page and I make games.
 
+- :low_brightness: I use he/him pronounds
+- :dragon: I go to Drexel University
+- :hammer: I'm not currently working on any big projects
 <!--
 **ColinJPage/ColinJPage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
